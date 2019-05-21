@@ -1,4 +1,3 @@
-<?php
 
 /* 
  * To change this license header, choose License Headers in Project Properties.
@@ -7,3 +6,4 @@
  */
 
 echo "Ashwini is great";
+echo "Mandar is great";
